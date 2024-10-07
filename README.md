@@ -1077,6 +1077,7 @@ Community Guides:
 * AWS Security [Manning](https://www.manning.com/books/aws-security)
 * Amazon Web Services in Action, Third Edition [Manning](https://www.manning.com/books/amazon-web-services-in-action-third-edition)
 * AWS for Non-Engineers [Manning](https://www.manning.com/books/aws-for-non-engineers)
+* Amazon Bedrock in Action [Manning](https://www.manning.com/books/amazon-bedrock-in-action))
 
 ### Whitepapers
 
