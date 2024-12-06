@@ -554,7 +554,6 @@ AWS Repos:
 * [aws-dynamodb-mars-json-demo](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - Stores and indexes NASA JPL Mars images.
 * [aws-dynamodb-session-tomcat](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat.
 * [aws-sessionstore-dynamodb-ruby](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
-* [ballerina-aws-dynamodb :fire:](https://github.com/ballerina-platform/module-ballerinax-aws.dynamodb) - The Ballerina AWS DynamoDB connector provides the capability to handle AWS DynamoDB related operations programatically.
 * [dynamodb-cross-region-library :fire::fire:](https://github.com/awslabs/dynamodb-cross-region-library) - Cross-region replication.
 * [dynamodb-geo :fire::fire:](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
 * [dynamodb-import-export-tool](https://github.com/awslabs/dynamodb-import-export-tool) - Import and export examples.
@@ -567,6 +566,7 @@ AWS Repos:
 
 Community Repos:
 
+* [ballerina-aws-dynamodb :fire:](https://github.com/ballerina-platform/module-ballerinax-aws.dynamodb) - The Ballerina AWS DynamoDB connector provides the capability to handle AWS DynamoDB related operations programmatically.
 * [channl/dynamodb-lambda-autoscale :fire::fire:](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda.
 * [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
 * [sebdah/dynamic-dynamodb :fire::fire::fire:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
