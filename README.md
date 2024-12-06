@@ -891,7 +891,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [ballerina-aws-sns :fire:](https://github.com/ballerina-platform/module-ballerinax-aws.sns) - The Ballerina connector for AWS SNS.
 
 ### SQS
 
