@@ -567,6 +567,7 @@ AWS Repos:
 Community Repos:
 
 * [ballerina-aws-dynamodb :fire:](https://github.com/ballerina-platform/module-ballerinax-aws.dynamodb) - The Ballerina AWS DynamoDB connector provides the capability to handle AWS DynamoDB related operations programmatically.
+* [ballerina-aws-dynamodb-streams](https://github.com/ballerina-platform/module-ballerinax-aws.dynamodbstreams) - The Ballerina AWS DynamoDB Streams connector enables developers to interact with AWS DynamoDB Streams for real-time data processing.
 * [channl/dynamodb-lambda-autoscale :fire::fire:](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda.
 * [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
 * [sebdah/dynamic-dynamodb :fire::fire::fire:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
