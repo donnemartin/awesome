@@ -84,6 +84,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [Kinesis](#kinesis)
     * [Lambda](#lambda)
     * [Machine Learning](#machine-learning)
+    * [Marketplace](#marketplace)
     * [Mobile Analytics](#mobile-analytics)
     * [OpsWorks](#opsworks)
     * [Redshift](#redshift)
@@ -765,6 +766,13 @@ AWS Repos:
 Community Repos:
 
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
+### Marketplace
+
+Community Repos:
+
+* [ballerina-aws-marketplace-entitlement](https://github.com/ballerina-platform/module-ballerinax-aws.marketplace.mpe) - The Ballerina connector for AWS Marketplace Entitlement service.
+* [ballerina-aws-marketplace-metering](https://github.com/ballerina-platform/module-ballerinax-aws.marketplace.mpm) - The Ballerina connector for AWS Marketplace Metering service.
 
 ### Mobile Analytics
 
